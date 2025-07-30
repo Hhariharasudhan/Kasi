@@ -1,0 +1,23 @@
+<rss version="2.0">
+  <channel>
+    <title>Kasideals - Daily Affiliate Deals</title>
+    <link>https://t.me/kasid68</link>
+    <description>Latest handpicked affiliate deals from Flipkart, Amazon, Meesho, and more.</description>
+
+    <item>
+      <title>👟 Nike Sneakers - 50% Off</title>
+      <link>https://www.flipkart.com/product/p/itmf4n5xyf?affid=youraffiliateid</link>
+    </item>
+
+    <item>
+      <title>👜 Stylish Handbag - Only ₹499</title>
+      <link>https://www.amazon.in/dp/B09XYZ?tag=youraffiliateid</link>
+    </item>
+
+    <item>
+      <title>📱 Redmi 13C - 22% Discount</title>
+      <link>https://www.flipkart.com/redmi-13c/dp/p/itm56e?affid=youraffiliateid</link>
+    </item>
+
+  </channel>
+</rss>
